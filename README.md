@@ -33,6 +33,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/M4rl0n274/M4rl0n274/output/snake.svg" alt="Snake animation" />
+
 
 ###
