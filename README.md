@@ -41,12 +41,11 @@
 
 
 ###
-contador perfil 
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/M4rl0n274/count.svg?"  />
 </div>
 
-###](url)
 
 <!--- Pacman -->
 <!---
